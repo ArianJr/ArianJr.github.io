@@ -163,8 +163,8 @@ Featured learning includes:
 ## 📬 Contact
 
 - **Email:** arianjafar59@gmail.com
-- [**GitHub:**](https://github.com/ArianJr)
-- [**LinkedIn:**](https://www.linkedin.com/in/arian-jafar/)
+- [GitHub](https://github.com/ArianJr)
+- [LinkedIn](https://www.linkedin.com/in/arian-jafar/)
 
 ---
 
