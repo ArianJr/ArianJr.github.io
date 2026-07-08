@@ -116,8 +116,10 @@ portfolio/
 │
 ├── index.html
 ├── README.md
-├── images/
+├── LICENSE
+└── images/
     ├── profile.png/
+    ├── favicon.png/
     └── preview.png/
 
 ```
