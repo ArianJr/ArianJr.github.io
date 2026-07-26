@@ -17,7 +17,7 @@ Designed with a clean, minimal aesthetic, the website highlights featured projec
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/preview.png" alt="Portfolio Preview" width="100%">
+  <img src="assets/preview.png" alt="Portfolio Preview" width="100%">
 </p>
 
 ---
@@ -117,11 +117,11 @@ portfolio/
 ├── index.html
 ├── README.md
 ├── LICENSE
-└── images/
+└── assets/
     ├── profile.png/
     ├── favicon.png/
-    └── preview.png/
-
+    ├── preview.png/
+    └── My Resume.pdf/
 ```
 
 ---
